@@ -1,0 +1,14 @@
+{
+  "name": "classify",
+  "version": "1.0.0",
+  "description": "OOP for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samhwang1990@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
